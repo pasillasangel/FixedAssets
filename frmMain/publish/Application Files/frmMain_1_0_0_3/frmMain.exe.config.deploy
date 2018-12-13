@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    
+    <add key="Printer" value="ZDesigner GX430T"/>
+    
+    <add key="ThermalOwner" value="FRANCISCO TOVAR-Ultimate Edition-Developer License"/>
+    <add key="ThermalKey" value="CQREFFVA6P3TMSZQPJK3NSK8DY6PWEYDX56HH3QB588Z94WY48UA"/>
+
+    <add key="BarcodeProOwner" value="FRANCISCO TOVAR-Ultimate Edition-Developer License"/>
+    <add key="BarcodeProKey" value="8KMSJGQPF7C2AW8B5WNXDZLZ42TXL3N7JT4N8VTNPYQ3DJVVPH5A"/>
+    
+    <!--Production -->
+    <add key="PhotoTemp" value="\\APPSERVER\f$\FIXEDASSETS\Test\"/>
+    <add key="PhotoEnd" value="\\APPSERVER\f$\FIXEDASSETS\"/>
+
+    <!-- TEST -->
+    <!--<add key="PhotoTemp" value="\\Filesrvr\it\SISTEMAS\QUERIES REPORTES\ImageTest\Test\" />
+    <add key="PhotoEnd" value="\\Filesrvr\it\SISTEMAS\QUERIES REPORTES\ImageTest\" />-->
+  
+  </appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2"/>
+    </startup>
+</configuration>

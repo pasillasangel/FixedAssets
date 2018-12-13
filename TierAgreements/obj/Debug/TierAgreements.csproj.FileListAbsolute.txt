@@ -1,0 +1,88 @@
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csprojResolveAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.dll
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierAgreements.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\bin\Debug\TierEntities.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csprojAssemblyReference.cache
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CoreCompileInputs.cache
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.csproj.CopyComplete
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\TierAgreements\obj\Debug\TierAgreements.pdb

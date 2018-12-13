@@ -1,0 +1,330 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Configuration;
+using System.Data;
+using System.Drawing;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+using Neodynamic.WinControls.BarcodeProfessional;
+using Neodynamic.Windows.ThermalLabelEditor;
+using Neodynamic.SDK.Printing;
+
+using TierCall;
+using TierEntities;
+namespace frmMain
+{
+    public partial class frmUpdateAsset : Form
+    {
+        Asset _aObject = new Asset();
+        AssetsCalls _AssetsC = new AssetsCalls();
+        ChangeAssetsCalls _ChangeAC = new ChangeAssetsCalls();
+
+
+        string sourceFile = ConfigurationManager.AppSettings["PhotoEnd"];
+        public static string _Printer = ConfigurationManager.AppSettings["Printer"];
+
+        string nameImage = "";
+
+        Asset _aSearch;
+        ChangeAssets _changeA;
+        List<string> fillResp = new List<string>();
+        List<string> fillLoc = new List<string>();
+
+
+        int idloc;
+        int idres;
+        string ped;
+        string codeped;
+
+        int pos;
+
+        public frmUpdateAsset()
+        {
+            ThermalLabel.LicenseOwner = "FRANCISCO TOVAR-Ultimate Edition-Developer License";
+            ThermalLabel.LicenseKey = "CQREFFVA6P3TMSZQPJK3NSK8DY6PWEYDX56HH3QB588Z94WY48UA";
+
+            BarcodeProfessional.LicenseOwner = "FRANCISCO TOVAR-Ultimate Edition-Developer License";
+            BarcodeProfessional.LicenseKey = "8KMSJGQPF7C2AW8B5WNXDZLZ42TXL3N7JT4N8VTNPYQ3DJVVPH5A";
+
+            InitializeComponent();
+            _aObject.IdAssets = 0;
+            FillCombo();
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+
+            if (txtid.Text == "")
+            {
+                MessageBox.Show("Missing Field ID", "Missing Field", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                _aObject.IdAssets = 0;
+            }
+            else
+            {
+                if (Convert.ToInt32(txtid.Text) == _aObject.IdAssets) { _aObject.IdAssets = 0; }
+                else
+                {
+                    try
+                    {
+                        _aObject.IdAssets = Convert.ToInt32(txtid.Text);
+                        _aSearch = new Asset();
+                        _aSearch = _AssetsC.SearchAsset(_aObject);
+                        bool show = _aSearch.visible;
+                        if (_aSearch.condition == null)
+                        {
+                            MessageBox.Show("The asset does not exist.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+                        }
+                        else
+                        {
+                            if (show)
+                            {
+                                txtpt.Text = _aSearch.partNumber;
+                                txtdescr.Text = _aSearch.descrip;
+                                txtbrand.Text = _aSearch.brand;
+                                txtmodel.Text = _aSearch.model;
+                                txtinvo.Text = _aSearch.invoice;
+                                ped = txtped.Text = _aSearch.pedimento;
+                                codeped = txtpedcod.Text = _aSearch.codePedimento;
+                                txtprov.Text = _aSearch.provider;
+                                txtcost.Text = Convert.ToString(_aSearch.cost);
+                                cmbCond.Text = _aSearch.condition;
+                                txtserial.Text = _aSearch.serial;
+                                idloc = cmbLoc.SelectedIndex = _aSearch.idLocationfk - 1;
+                                idres = cmbResp.SelectedIndex = _aSearch.idResponsiblefk - 1;
+                                if(_aSearch.invoiceDate != null)
+                                {
+                                    string dateFormat = Convert.ToString(_aSearch.invoiceDate);
+                                    dateFormat = dateFormat.Remove(dateFormat.Length - 12);
+                                    txtinvoDate.Text = dateFormat;
+                                }
+                                else
+                                {
+                                    txtinvoDate.Text = "";
+                                }
+                                nameImage = _aSearch.picture;
+                                picAsset.Image = Image.FromFile(sourceFile + nameImage);
+
+                                dgvAsset.DataSource = _ChangeAC.ConsultAllAssetChange(_aObject);
+
+                                //Name Columns Headers
+                                dgvAsset.Columns[0].HeaderText = "Id";
+                                dgvAsset.Columns[4].HeaderText = "Code Pedimento";
+                                dgvAsset.Columns[5].HeaderText = "Change Date";
+                            }
+                            else
+                            {
+                                MessageBox.Show("This Asset was eliminated.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            }
+                        }
+
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("ERROR: " + ex.Message, "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+
+        }
+
+        private void FillCombo()
+        {
+            pos = 0;
+            fillLoc = _AssetsC.FillLocation();
+            foreach (string name in fillLoc)
+            {
+                cmbLoc.Items.Insert(pos, name);
+                pos++;
+            }
+            pos = 0;
+            fillResp = _AssetsC.FillResponsible();
+            foreach (string name in fillResp)
+            {
+                cmbResp.Items.Insert(pos, name);
+                pos++;
+            }
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            if (_aObject.IdAssets == 0)
+            {
+                MessageBox.Show("LOOK FOR AN ASSET", "Missing Field", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+
+                if (ped != txtped.Text || codeped != txtpedcod.Text || idloc != cmbLoc.SelectedIndex || idres != cmbResp.SelectedIndex)
+                {
+                    try
+                    {
+                        //Update
+                        _aObject.pedimento = txtped.Text;
+                        _aObject.codePedimento = txtpedcod.Text;
+                        _aObject.idLocationfk = Convert.ToInt32(cmbLoc.SelectedIndex.ToString()) + 1;
+                        _aObject.idResponsiblefk = Convert.ToInt32(cmbResp.SelectedIndex.ToString()) + 1;
+                        if (_AssetsC.UpdateAsset(_aObject) == 1)
+                        {
+                            //Add change
+                            _changeA = new ChangeAssets();
+                            _changeA.idAssetsfk = _aSearch.IdAssets;
+                            _changeA.pedimento = _aSearch.pedimento;
+                            _changeA.codePedimento = _aSearch.codePedimento;
+                            _changeA.idLocationfkch = _aSearch.idLocationfk;
+                            _changeA.idResponsiblefkch = _aSearch.idResponsiblefk;
+                            _changeA.visible = _aSearch.visible;
+                            _changeA.dateChange = DateTime.Now;
+
+                            if (_ChangeAC.AddChangeAsset(_changeA) == 1)
+                            {
+                                Clear();
+                                MessageBox.Show("UPDATE SUCCESSFUL", "SUCCESSFUL", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("ERROR: " + ex.Message, "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Make at least one change in the information", "WARNING", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+
+            }
+        }
+        private void Clear()
+        {
+            txtid.Text = "";
+            txtbrand.Text = "";
+            txtcost.Text = "";
+            txtdescr.Text = "";
+            txtinvo.Text = "";
+            txtmodel.Text = "";
+            txtped.Text = "";
+            txtpedcod.Text = "";
+            txtprov.Text = "";
+            txtpt.Text = "";
+            txtserial.Text = "";
+            txtinvoDate.Text = "";
+            cmbCond.SelectedIndex = -1;
+            cmbLoc.SelectedIndex = -1;
+            cmbResp.SelectedIndex = -1;
+            picAsset.Image = null;
+            _aObject.IdAssets = 0;
+            dgvAsset.DataSource = null;
+            this.ActiveControl = txtid;
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            Clear();
+        }
+
+        private void txtid_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+
+            if (Convert.ToInt32(e.KeyChar) == 13)
+            {
+                btnSearch.PerformClick();
+            }
+        }
+
+        private void btnRemove_Click(object sender, EventArgs e)
+        {
+
+            if (_aObject.IdAssets == 0)
+            {
+                MessageBox.Show("LOOK FOR AN ASSET", "Missing Field", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                DialogResult result = MessageBox.Show("Are you sure to eliminate this asset?", "Confirmation", MessageBoxButtons.YesNoCancel);
+                if (result == DialogResult.Yes)
+                {
+
+                    if (_AssetsC.RemoveAsset(_aObject) == 1)
+                        Clear();
+
+                }
+                else if (result == DialogResult.No)
+                {
+                    //...
+                }
+                else
+                {
+                    //...
+                }
+            }
+
+        }
+
+        private void frmUpdateAsset_Load(object sender, EventArgs e)
+        {
+            this.ActiveControl = txtid;
+        }
+
+        public ThermalLabel GenerateBasicThermalLabel()
+        {
+            string IdPrint = Convert.ToString(_aObject.IdAssets);
+            //Define a ThermalLabel object and set unit to inch and label size
+            ThermalLabel tLabel = new ThermalLabel(UnitType.Inch, 4, 2);
+            tLabel.GapLength = 0.2;
+
+            //Right, Down
+            BarcodeItem bcID = new BarcodeItem(1.422, 0.2462, 2.5, 0.5083, BarcodeSymbology.QRCode, IdPrint);
+            bcID.AddChecksum = false;
+            bcID.DisplayCode = false;
+            bcID.BarHeight = 0.4;
+            bcID.BarWidth = 0.0104;
+            TextItem txtNumber = new TextItem(1.83000, 1.0922, 1.0938, 0.2083, IdPrint);
+            txtNumber.Font.Name = "Calibri";
+            txtNumber.Font.Size = 14;
+            txtNumber.Font.Bold = true;
+
+            tLabel.Items.Add(bcID);
+            tLabel.Items.Add(txtNumber);
+
+            return tLabel;
+        }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            if (_aObject.IdAssets == 0)
+            {
+                MessageBox.Show("Missing Field ID", "Missing Field", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+
+                ThermalLabel _currentThermalLabel = null;
+                _currentThermalLabel = this.GenerateBasicThermalLabel();
+
+                PrinterSettings _printerSettings = new PrinterSettings();
+                _printerSettings.Communication.CommunicationType = CommunicationType.USB;
+                _printerSettings.PrinterName = _Printer;
+                _printerSettings.Dpi = 203;
+                _printerSettings.ProgrammingLanguage = (ProgrammingLanguage)Enum.Parse(typeof(ProgrammingLanguage), "ZPL");
+                PrintOrientation _printOrientation = PrintOrientation.Portrait;
+
+                using (PrintJob pj = new PrintJob(_printerSettings))
+                {
+                    pj.PrintOrientation = _printOrientation;
+                    pj.ThermalLabel = _currentThermalLabel; 
+                    pj.Print();                   
+                }
+
+            }
+        }
+    }
+}

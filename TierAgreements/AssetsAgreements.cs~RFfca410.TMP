@@ -1,0 +1,279 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using TierEntities;
+using System.Data;
+using System.Data.SqlClient;
+namespace TierAgreements
+{
+    public class AssetsAgreements
+    {
+        public int AddAsset(Asset AssetE)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("ADD_ASSET", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@pn", AssetE.partNumber));
+            _command.Parameters.Add(new SqlParameter("@descr", AssetE.descrip));
+            _command.Parameters.Add(new SqlParameter("@br", AssetE.brand));
+            _command.Parameters.Add(new SqlParameter("@mo", AssetE.model));
+            _command.Parameters.Add(new SqlParameter("@se", AssetE.serial));
+            _command.Parameters.Add(new SqlParameter("@co", AssetE.condition));
+            _command.Parameters.Add(new SqlParameter("@in", AssetE.invoice));
+
+            if (AssetE.invoiceDate == null)
+                _command.Parameters.Add(new SqlParameter("@inD", DBNull.Value));
+            else
+                _command.Parameters.Add(new SqlParameter("@inD", AssetE.invoiceDate));
+            
+            _command.Parameters.Add(new SqlParameter("@pe", AssetE.pedimento));
+            _command.Parameters.Add(new SqlParameter("@cPe", AssetE.codePedimento));
+            _command.Parameters.Add(new SqlParameter("@pro", AssetE.provider));
+            _command.Parameters.Add(new SqlParameter("@cost", AssetE.cost));
+            _command.Parameters.Add(new SqlParameter("@pic", AssetE.picture));
+            _command.Parameters.Add(new SqlParameter("@dCre", AssetE.dateCreate));
+            _command.Parameters.Add(new SqlParameter("@idLocfk", AssetE.idLocationfk));
+            _command.Parameters.Add(new SqlParameter("@idRes", AssetE.idResponsiblefk));
+            int result = _command.ExecuteNonQuery();
+            _conn.Close();
+            return result;
+        }
+
+        public int LastId()
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("LAST_ID", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            IDataReader _reader = _command.ExecuteReader();
+            int last = 0;
+            while (_reader.Read())
+            {
+                last = _reader.GetInt32(0);
+            }
+            _conn.Close();
+            return last;
+        }
+
+        public int UpdatePicture(Asset AssetE)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("UPDATE_PICTURE", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@id", AssetE.IdAssets));
+            _command.Parameters.Add(new SqlParameter("@pic", AssetE.picture));
+            int result = _command.ExecuteNonQuery();
+            _conn.Close();
+            return result;
+        }
+
+        public int UpdateAsset(Asset AssetE)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("UPDATE_ASSET", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@id", AssetE.IdAssets));
+            _command.Parameters.Add(new SqlParameter("@pe", AssetE.pedimento));
+            _command.Parameters.Add(new SqlParameter("@cPe", AssetE.codePedimento));
+            _command.Parameters.Add(new SqlParameter("@idLocfk", AssetE.idLocationfk));
+            _command.Parameters.Add(new SqlParameter("@idRes", AssetE.idResponsiblefk));
+            int result = _command.ExecuteNonQuery();
+            _conn.Close();
+            return result;
+        }
+
+        public Asset SearchAsset(Asset AssetE)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("SEARCH_ASSET", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@id", AssetE.IdAssets));
+            IDataReader _reader = _command.ExecuteReader();
+            Asset _a = new Asset();
+            if (_reader.Read())
+            {
+                _a.IdAssets = _reader.GetInt32(0);
+                _a.partNumber = _reader.GetString(1);
+                _a.descrip = _reader.GetString(2);
+                _a.brand = _reader.GetString(3);
+                _a.model = _reader.GetString(4);
+                _a.serial = _reader.GetString(5);
+                _a.condition = _reader.GetString(6);
+                _a.invoice = _reader.GetString(7);
+                
+                if (_reader.IsDBNull(8))
+                    _a.invoiceDate = new DateTime(1880, 1, 1);
+                else
+                    _a.invoiceDate = _reader.GetDateTime(8);
+
+                _a.pedimento = _reader.GetString(9);
+                _a.codePedimento = _reader.GetString(10);
+                _a.provider = _reader.GetString(11);
+                _a.cost = _reader.GetDecimal(12);
+                _a.dateCreate = _reader.GetDateTime(13);
+                if (_reader.IsDBNull(14))
+                    _a.dateLow = new DateTime(1880, 1, 1);
+                else
+                    _a.dateLow = _reader.GetDateTime(14);
+                _a.picture = _reader.GetString(15);
+                _a.visible = _reader.GetBoolean(16);
+                _a.idLocationfk = _reader.GetInt32(17);
+                _a.idResponsiblefk = _reader.GetInt32(18);
+            }
+            return _a;
+        }
+
+
+        public int SearchId(Asset AssetE)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("SEARCH_ID", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@id", AssetE.IdAssets));
+            int result = _command.ExecuteNonQuery();
+            _conn.Close();
+            return result;
+        }
+
+        public int RemoveAsset(Asset AssetE)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("REMOVE_ASSET", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@id", AssetE.IdAssets));
+            int result = _command.ExecuteNonQuery();
+            _conn.Close();
+            return result;
+        }
+
+        public List<string> FillResponsible()
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("FILL_RESPONSIBLE", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            IDataReader _reader = _command.ExecuteReader();
+            List<string> ListR = new List<string>();
+            while (_reader.Read())
+            {
+                ListR.Add(_reader.GetString(0));
+            }
+            return ListR;
+        }
+
+        public List<string> FillLocation()
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("FILL_LOCATION", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            IDataReader _reader = _command.ExecuteReader();
+            List<string> ListR = new List<string>();
+            while (_reader.Read())
+            {
+                ListR.Add(_reader.GetString(0));
+            }
+            return ListR;
+        }
+
+        public List<Asset> ConsultAllAssetVisible(Asset AssetE)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("CONSULT_ALL_ASSET_VISIBLE", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@id", AssetE.IdAssets));
+            IDataReader _reader = _command.ExecuteReader();
+            List<Asset> ListA = new List<Asset>();
+            Asset _a;
+            while (_reader.Read())
+            {
+                _a = new Asset();
+                _a.IdAssets = _reader.GetInt32(0);
+                _a.partNumber = _reader.GetString(1);
+                _a.descrip = _reader.GetString(2);
+                _a.brand = _reader.GetString(3);
+                _a.model = _reader.GetString(4);
+                _a.serial = _reader.GetString(5);
+                _a.condition = _reader.GetString(6);
+                _a.invoice = _reader.GetString(7);
+
+                if (_reader.IsDBNull(8))
+                    _a.invoiceDate = null;
+                else
+                    _a.invoiceDate = _reader.GetDateTime(8);
+
+                _a.pedimento = _reader.GetString(9);
+                _a.codePedimento = _reader.GetString(10);
+                _a.provider = _reader.GetString(11);
+                _a.cost = _reader.GetDecimal(12);
+                _a.dateCreate = _reader.GetDateTime(13);
+                if (_reader.IsDBNull(14))
+                    _a.dateLow = null;
+                else
+                    _a.dateLow = _reader.GetDateTime(14);
+                _a.picture = _reader.GetString(15);
+                _a.visible = _reader.GetBoolean(16);
+                _a.idLocationfk = _reader.GetInt32(17);
+                _a.idResponsiblefk = _reader.GetInt32(18);
+                ListA.Add(_a);
+            }
+            return ListA;
+        }
+
+        public List<JOINConsultAsset> ConsultAssetNormal(string search)
+        {
+            IDbConnection _conn = DBComon.Connectiondb();
+            _conn.Open();
+            SqlCommand _command = new SqlCommand("CONSULT_ASSETS_NORMAL", _conn as SqlConnection);
+            _command.CommandType = CommandType.StoredProcedure;
+            _command.Parameters.Add(new SqlParameter("@search", SqlDbType.VarChar));
+            IDataReader _reader = _command.ExecuteReader();
+            List<Asset> ListA = new List<Asset>();
+            Asset _a;
+            while (_reader.Read())
+            {
+                _a = new Asset();
+                _a.IdAssets = _reader.GetInt32(0);
+                _a.partNumber = _reader.GetString(1);
+                _a.descrip = _reader.GetString(2);
+                _a.brand = _reader.GetString(3);
+                _a.model = _reader.GetString(4);
+                _a.serial = _reader.GetString(5);
+                _a.condition = _reader.GetString(6);
+                _a.invoice = _reader.GetString(7);
+
+                if (_reader.IsDBNull(8))
+                    _a.invoiceDate = null;
+                else
+                    _a.invoiceDate = _reader.GetDateTime(8);
+
+                _a.pedimento = _reader.GetString(9);
+                _a.codePedimento = _reader.GetString(10);
+                _a.provider = _reader.GetString(11);
+                _a.cost = _reader.GetDecimal(12);
+                _a.dateCreate = _reader.GetDateTime(13);
+                if (_reader.IsDBNull(14))
+                    _a.dateLow = null;
+                else
+                    _a.dateLow = _reader.GetDateTime(14);
+                _a.picture = _reader.GetString(15);
+                _a.visible = _reader.GetBoolean(16);
+                _a.idLocationfk = _reader.GetInt32(17);
+                _a.idResponsiblefk = _reader.GetInt32(18);
+                ListA.Add(_a);
+            }
+            return ListA;
+        }
+
+    }
+}

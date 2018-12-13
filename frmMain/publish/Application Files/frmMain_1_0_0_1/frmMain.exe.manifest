@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="frmMain.exe" version="1.0.0.1" publicKeyToken="456de63582ebee12" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="frmMain" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="frmMain.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.dll" size="17920">
+      <assemblyIdentity name="AForge" version="2.2.5.0" publicKeyToken="C1DB6FF4EAA06AEB" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>lmpHQGCorKcMc7oJ0Lb+I1MDWWHHEHuQA++HnAEP+No=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.dll" size="20992">
+      <assemblyIdentity name="AForge.Video" version="2.2.5.0" publicKeyToken="CBFB6E07D173C401" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uvpu0EyieCJwB0EnoEmN3gIsKp9Alsa7K448CLs9QE0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.DirectShow.dll" size="61440">
+      <assemblyIdentity name="AForge.Video.DirectShow" version="2.2.5.0" publicKeyToken="61EA4348D43881B7" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Zm1EeY2U6voe0hr3npvAKT/9lvhjq12H94vO6e+f/Ws=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DarrenLee.Media.dll" size="7168">
+      <assemblyIdentity name="DarrenLee.Media" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sKU3SAdDKhCl+7XlG+fPHkmlUVlPVdd7Z5Mb5ZfBQj4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="frmMain.exe" size="276448">
+      <assemblyIdentity name="frmMain" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nHgHmieoINuQnXQAcveKx0uFUIUr1aRLf6ngicMoHtU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neodynamic.SDK.ThermalLabel.dll" size="651264">
+      <assemblyIdentity name="Neodynamic.SDK.ThermalLabel" version="5.0.3500.0" publicKeyToken="0630B9B3415848AF" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Om2gRez1N0GgxuZ66lD+WNJQxK2Y9eTpUSEsx36QUfc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neodynamic.WinControls.BarcodeProfessional.dll" size="690176">
+      <assemblyIdentity name="Neodynamic.WinControls.BarcodeProfessional" version="10.0.2000.0" publicKeyToken="C6B33C3093A0D4CD" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rhoawOQqozuSPlgSIoVdbFZq14zdHvtMx1UEf/gU24Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neodynamic.WinControls.Design.BarcodeProfessional.dll" size="193024">
+      <assemblyIdentity name="Neodynamic.WinControls.Design.BarcodeProfessional" version="10.0.2000.0" publicKeyToken="C6B33C3093A0D4CD" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qOnvBM1N6KIxZdnCzuxU5geqZRt6TCk32CCmVXmX46w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neodynamic.Windows.ThermalLabelEditor.dll" size="531968">
+      <assemblyIdentity name="Neodynamic.Windows.ThermalLabelEditor" version="5.0.3500.0" publicKeyToken="C57773567150E634" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>KM7iYnPQe34YiFRbxGFokBORZx+7A+L2DocqOewRP9k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TierAgreements.dll" size="16384">
+      <assemblyIdentity name="TierAgreements" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>z5HhUdt3ICPN1xwCAE7NpJjHfJBVdTdmw+RHimcoZP0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TierCall.dll" size="6656">
+      <assemblyIdentity name="TierCall" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5q5J0mJnODF3GDwjWmo90wefUE8w9WVnzTPTq6uk6Rk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TierEntities.dll" size="15872">
+      <assemblyIdentity name="TierEntities" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>IbBjA9NZjaV7w4GVaNgQEpv0Rte8bBotYmj1QgqWQpk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="frmMain.exe.config" size="1026">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qSDGZvHgEIUe2vn0PCMKJx6FUVQFzSad/BlfYsFNlUw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=RICOHBAJA\ftovar" issuerKeyHash="0a32d53ec2d405a97b4421933c72e3a808cf963e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>IzfkfJ41BKJzIR2Xp5AyR8rtOQ/oFG1q8vwSW13B30Q=</DigestValue></Reference></SignedInfo><SignatureValue>QyuxIsBpE/FWhzcxv7Zkgf8KdP9p2oXeRBRIIz6ZfNbUgciEWqHwSIYtOnCHK9nkSbXRIqL3VfNncNrZ6uqJUifimX5xWgN23MCcxZDdcMEmm3YK3mjrn9Ez3irkLfGtQKfnYhy9W0XrCJ3amogwhMxv4TFBhIHtDUhUq6UhOJU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sCvEYbigiXzUx93qj65zG4LhAYqLGEDdrCf6n3rMiZ7ZZosTmhXpaHFYNkVDBkvlqzBgPqwFfVv/4zjJyLWuPiO1G1APOFPuwL9nmkqstxsDH0K/+LBeeyebLWQOX+rMmn0RDLn3sCh3huCcxY4nVxMJsTL9eV2naypQ14t3Pzc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="44dfc15d5b12fcf26a6d14e80f39edca473290a7971d2173a204359e7ce43723" Description="" Url=""><as:assemblyIdentity name="frmMain.exe" version="1.0.0.1" publicKeyToken="456de63582ebee12" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RICOHBAJA\ftovar</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>brNexbo+67NXvnJvU8f1Uk81i0Ih2zBDmtsJ+kAevAo=</DigestValue></Reference></SignedInfo><SignatureValue>DhNIPz+9fZdrkB9k/jBE8TgIYGhl81wOl5hlc/zy7uceJIIpPcYYcA338tzXQcHAwjX3Swka6DFVl/RdinGKTxw2uFXfg96baVC96PCow63nyFVdMCFTwQz54FqocXOfQ8xPzCBJrWcjJpSz8c7Po6mYLz77Dc0Fr0pJIUYq62c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sCvEYbigiXzUx93qj65zG4LhAYqLGEDdrCf6n3rMiZ7ZZosTmhXpaHFYNkVDBkvlqzBgPqwFfVv/4zjJyLWuPiO1G1APOFPuwL9nmkqstxsDH0K/+LBeeyebLWQOX+rMmn0RDLn3sCh3huCcxY4nVxMJsTL9eV2naypQ14t3Pzc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQECfPJkITo5pB1yPENmHx4DANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAUgBJAEMATwBIAEIAQQBKAEEAXABmAHQAbwB2AGEAcjAeFw0xODEwMDEyMDA2NTBaFw0xOTEwMDIwMjA2NTBaMCsxKTAnBgNVBAMeIABSAEkAQwBPAEgAQgBBAEoAQQBcAGYAdABvAHYAYQByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwK8RhuKCJfNTH3eqPrnMbguEBiosYQN2sJ/qfesyJntlmixOaFelocVg2RUMGS+WrMGA+rAV9W//jOMnIta4+I7UbUA84U+7Av2eaSqy3GwMfQr/4sF57J5stZA5f6syafREMufewKHeG4JzFjidXEwmxMv15XadrKlDXi3c/NwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJif6m+w8vweC6wrv846P+cIT2tmq027EMLL06dXrAcBdWvIGwj1ADDS2lXVmQ2UP4EIfZBIbf61KH/v0XgJ8QMFyOjMNW+FRBZTt2fni83d+uUVh/fvrL14neF1qkgiZch7eXq3tz0kKCjJ3sDieE3gqx9lnGRM8JKmeodXd8S1</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,440 @@
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\DarrenLee.Media.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\DarrenLee.Media.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV3\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\DarrenLee.Media.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\DarrenLee.Media.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar\Documents\Visual Studio 2017\Projects\FixedAssetsV4New\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csprojResolveAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.GenerateResource.Cache
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\PASILLAS\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmViewPicture.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmViewPicture.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\obj\Debug\frmMain.frmAddGroupPhotos.resources
+C:\Users\ftovar.RICOHBAJA\Documents\Visual Studio 2017\newFixedAssetsV4New\FixedAssetsV4New\frmMain\bin\Debug\DarrenLee.Media.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\DarrenLee.Media.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddGroupPhotos.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmViewPicture.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Agosto29\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\AForge.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\AForge.Video.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\DarrenLee.Media.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddGroupPhotos.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmViewPicture.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.pdb
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe.manifest
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.application
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe.manifest
+C:\Users\ftovar\source\repos\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.application
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe.manifest
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.application
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.pdb
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.dll
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.dll
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.dll
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.pdb
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.pdb
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.pdb
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddGroupPhotos.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmViewPicture.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe.manifest
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.application
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe
+C:\Users\pasil\Documents\Visual Studio 2017\Proyects\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe.config
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe.manifest
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.application
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.exe
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\frmMain.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\EnvDTE.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\stdole.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\EnvDTE80.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\VSLangProj.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\VSLangProj80.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Newtonsoft.Json.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.MSXML.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.Build.Framework.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\VSLangProj2.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierCall.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierEntities.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.SDK.ThermalLabel.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Neodynamic.Windows.ThermalLabelEditor.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\TierAgreements.pdb
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe.config
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmMainProject.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAdd.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddGroupPhotos.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAddPhoto.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmAssetsBook.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmConsult.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmReport.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmReports.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmShowQR.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmUpdateAsset.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.frmViewPicture.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe.manifest
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.application
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.exe
+C:\Emgu\RESIDENCIA-29OCTUBRE\AssetsFixedDesktop-Septiembre9\AssetsFixedDesktop\frmMain\obj\Debug\frmMain.pdb

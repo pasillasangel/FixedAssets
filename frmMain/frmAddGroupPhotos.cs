@@ -1,0 +1,233 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using TierEntities;
+using TierCall;
+using System.Configuration;
+
+namespace frmMain
+{
+    public partial class frmAddGroupPhotos : Form
+    {
+        string destinationFile = ConfigurationManager.AppSettings["PhotoEnd"];
+
+        public string folderPath;
+        public string nameFile;
+        public List<string> files = new List<string>();
+        public List<int> ids = new List<int>();
+        AssetsCalls _AssetsC = new AssetsCalls();
+        public int countPhoto = 0;
+        public int countMove = 0;
+
+        public frmAddGroupPhotos()
+        {
+            InitializeComponent();
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        public void countPhotos()
+        {
+            lblcountFiles.Text = "Cantidad de Fotos: " + countPhoto.ToString();
+        }
+
+        public static void Renamefile(string oldfile, string newfile)
+        {
+            if (File.Exists(oldfile))
+            {
+                File.Copy(oldfile, newfile, true);
+            }
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog folderBrowser = new OpenFileDialog();
+            folderBrowser.ValidateNames = false;
+            folderBrowser.CheckFileExists = false;
+            folderBrowser.CheckPathExists = true;
+            folderBrowser.FileName = "Selección de folder.";
+            
+            if(cb1.Checked == false && cb2.Checked == false && cb3.Checked == false)
+            {
+                MessageBox.Show("Seleccione un TIPO DE FORMATO por favor", "Campo Faltante", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+            else
+            {
+                try
+                {
+                    if (folderBrowser.ShowDialog() == DialogResult.OK)
+                    {
+                        folderPath = Path.GetDirectoryName(folderBrowser.FileName);
+                        txtpath.Text = folderPath;
+
+                        files.Clear();
+                        ids.Clear();
+                        countPhoto = 0;
+
+                        System.IO.DirectoryInfo directorio = new System.IO.DirectoryInfo(folderPath);
+                        FileInfo[] archivos = directorio.GetFiles();
+                        foreach (var a in archivos)
+                        {
+                            countPhoto++;
+
+                            //Add
+                            if (a.Extension == ".jpg" || a.Extension == ".JPG")
+                            {
+                                files.Add(a.Name);
+                                nameFile = a.Name;
+                                nameFile = nameFile.Remove(nameFile.Length - 4);
+                            }
+
+                            if (a.Extension == ".JPEG" || a.Extension == ".jpeg")
+                            {
+                                files.Add(a.Name);
+
+                                nameFile = a.Name;
+                                nameFile = nameFile.Remove(nameFile.Length - 5);
+                            }
+
+                            //Cut
+                            if (cb1.Checked == true)
+                            {
+                                string[] words = nameFile.Split('_');
+                                ids.Add(Convert.ToInt32(words[words.Length - 1]));
+                            }
+
+                            if (cb2.Checked == true)
+                            {
+                                string[] words = nameFile.Split(' ');
+                                ids.Add(Convert.ToInt32(words[words.Length - 1]));
+                            }
+
+                            if (cb3.Checked == true)
+                            {
+                                ids.Add(Convert.ToInt32(nameFile));
+                            }
+                        }
+
+                        listFiles.Items.Clear();
+
+                        foreach (string file in files)
+                        {
+                            listFiles.Items.Add(file);
+                        }
+                        
+                        countPhotos();
+                    }
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("ERROR: Seleccione una carpeta donde tenga los archivos. Verifique lo siguiente: " +
+                        "\n1.- Seleccione la Carpeta correcta." +
+                        "\n2.- Seleccione el Formato correcto." +
+                        "\n3.- Verifique el nombre de los archivos. Si no coincide modifique los archivos.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+
+                    txtpath.Text = "";
+                }
+            }
+        }
+
+        private void btnSelect_Click(object sender, EventArgs e)
+        {
+            if (txtpath.Text == "")
+            {
+                MessageBox.Show("Seleccione un TIPO DE FORMATO y una CARPETA por favor", "Campo Faltante", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+            else
+            {
+                Cursor.Current = Cursors.WaitCursor;
+                for (int i = 0; i < files.Count; i++)
+                {
+                    int result = _AssetsC.UpdatePictureGroup(files[i], ids[i]);
+
+                    if (result == 1)
+                    {
+                        countMove++;
+                        try
+                        {
+                            Renamefile(folderPath + @"\" + files[i], destinationFile + files[i]);
+                        }
+                        catch (Exception)
+                        {
+                            MessageBox.Show("Error: Al mover el archivo. \nImagen: '" + files[i] + "'.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("Error: En el momento de INSERTAR en la base de datos. \nArchivo: '" + files[i] + "'.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+
+                Cursor.Current = Cursors.Default;
+                if (countPhoto == countMove)
+                {
+                    MessageBox.Show("Toda la Información fue Actualizada Correctamente.", "Operación exitosa.", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                    
+                }
+                else
+                {
+                    MessageBox.Show("La información no fue totalmente actualizada, hubo errores.", "Operación Fallida.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                countMove = 0;
+                listFiles.Items.Clear();
+                txtpath.Text = "";
+                lblnameFiles.Text = "Cantidad de Fotos: 0";
+
+            }
+        }
+
+        private void cb1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cb1.Checked == true)
+            {
+                cb2.Checked = false;
+                cb3.Checked = false;
+            }
+            else
+            {
+                cb1.Checked = false;
+            }
+           
+        }
+
+        private void cb2_CheckStateChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cb2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cb2.Checked == true)
+            {
+                cb1.Checked = false;
+                cb3.Checked = false;
+            }
+            else
+            {
+                cb2.Checked = false;
+            }
+        }
+
+        private void cb3_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cb3.Checked == true)
+            {
+                cb1.Checked = false;
+                cb2.Checked = false;
+            }
+            else
+            {
+                cb3.Checked = false;
+            }
+        }
+    }
+}
